@@ -75,7 +75,19 @@ comments and requests (“Feedback”). You hereby agree that we will be free to
 development of the Preview Service and other products of ours, and hereby agree that any right, title and interest to
 any Feedback relating to the Preview Service or its modifications will be owned by JFrog.
 
-6. Analytics Information and Personal Data Handling. You agree that during the Term, we may collect basic system diagnostic metrics (such as operating system, browser type, and feature usage) and your account email address solely to maintain and improve the Preview Service ("Analytics Information"). For your peace of mind, we do NOT collect, view, or store your source code, software files, CI/CD data, or IP address. All email and personal data is processed strictly in accordance with the JFrog Privacy Notice (accessible online at https://jfrog.com/privacy-notice/), and JFrog remains the sole owner of the Analytics Information.
+6. Data Handling. “Usage Data” means any data or information that is based on,
+generated or created from, or data or information about your access to or use of
+the Preview Service, which includes version, setup, configuration, integration,
+logs, consumption, and any information related to the maintenance and support of
+the Preview Service.
+
+JFrog may collect, store and use Usage Data for providing the Preview Service,
+maintenance, support, account management, and monitoring for securing compliance
+with Sections 3 and 4. JFrog may use aggregated and anonymized Usage Data to
+enhance and improve the Preview Service and the JFrog Platform.
+
+All email and personal data is processed strictly in accordance with the JFrog
+Privacy Notice (accessible online at https://jfrog.com/privacy-notice/).
 
 7. Confidentiality. The Preview Service is strictly confidential until the Preview Service is officially launched
 by JFrog and you will treat the Preview Service, and any documentation, specifications, or instructions related to the
